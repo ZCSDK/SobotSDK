@@ -11,7 +11,7 @@ s.homepage         = "https://github.com/ZCSDK/SobotSDK"
 # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
 s.license          = 'MIT'
 s.author           = { 'zhangxy' => 'app_dev@sobot.com' }
-s.source           = { :git => "https://github.com/ZCSDK/SobotKit.git", :tag => s.version.to_s }
+s.source           = { :git => "https://github.com/ZCSDK/SobotSDK.git", :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/NAME'
 
 s.platform     = :ios, '8.0'
